@@ -1,4 +1,5 @@
 # Business_Insight_360
+![image alt](https://github.com/nayan-23885/Business_Insight_360/blob/a278af8e128a7c20ced060abb6adcfc220f144cf/Screenshot%202026-03-23%20155347.png)
 ## Introduction
 This project outlines end-to-end development of the Atliq Hardware Power BI analytics suite. The project objective was to transition from siloed, static reporting to a robust, automated Business Intelligence solution. By integrating diverse data systems, engineering a scalable data model, and designing interactive cross-functional dashboards, the project delivers actionable insights across Finance, Sales, Marketing, and Supply Chain operations.
 
